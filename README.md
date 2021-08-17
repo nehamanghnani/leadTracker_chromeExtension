@@ -1,5 +1,7 @@
 # leadTracker_chromeExtension
+
 This is a project is for tracking leads for marketers and sales people.
+This is developed in HTML, CSS and JavaScript. 
 
 It is a chrome extension which can be used to save URL links from visited tabs, or input the URL in the text field and save it. 
 
